@@ -4,6 +4,9 @@ header {
 header .search {
   padding: 10px;
 }
+header nav {
+  display: flex;
+}
 section#about {
   display: flex;
   justify-content: center;
