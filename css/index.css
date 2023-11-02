@@ -1,6 +1,9 @@
 header {
   display: flex;
 }
+header .search {
+  padding: 10px;
+}
 section#about {
   display: flex;
   justify-content: center;
